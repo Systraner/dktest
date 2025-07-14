@@ -1,0 +1,66 @@
+[15-Jul-2025 01:53:40 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected token "echo" in D:\www_dev\local.istark.ru\dktest\index.php on line 290
+[15-Jul-2025 01:53:42 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected token "echo" in D:\www_dev\local.istark.ru\dktest\index.php on line 290
+[15-Jul-2025 01:54:35 Asia/Krasnoyarsk] PHP Warning:  include(funct): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:54:35 Asia/Krasnoyarsk] PHP Warning:  include(funct): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:54:35 Asia/Krasnoyarsk] PHP Warning:  include(): Failed opening 'funct' for inclusion (include_path='.;C:\php\pear') in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:54:35 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:285
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 01:55:51 Asia/Krasnoyarsk] PHP Warning:  include(funct): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:55:51 Asia/Krasnoyarsk] PHP Warning:  include(funct): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:55:51 Asia/Krasnoyarsk] PHP Warning:  include(): Failed opening 'funct' for inclusion (include_path='.;C:\php\pear') in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:55:51 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:285
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 01:56:47 Asia/Krasnoyarsk] PHP Warning:  include(functions.phph): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:47 Asia/Krasnoyarsk] PHP Warning:  include(functions.phph): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:47 Asia/Krasnoyarsk] PHP Warning:  include(): Failed opening 'functions.phph' for inclusion (include_path='.;C:\php\pear') in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:47 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:285
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 01:56:49 Asia/Krasnoyarsk] PHP Warning:  include(functions.phph): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:49 Asia/Krasnoyarsk] PHP Warning:  include(functions.phph): Failed to open stream: No such file or directory in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:49 Asia/Krasnoyarsk] PHP Warning:  include(): Failed opening 'functions.phph' for inclusion (include_path='.;C:\php\pear') in D:\www_dev\local.istark.ru\dktest\index.php on line 2
+[15-Jul-2025 01:56:49 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:285
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 01:57:37 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 02:00:45 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in D:\www_dev\local.istark.ru\dktest\index.php on line 318
+[15-Jul-2025 02:01:23 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 285
+[15-Jul-2025 02:02:06 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught TypeError: key(): Argument #1 ($array) must be of type array, string given in D:\www_dev\local.istark.ru\dktest\index.php:290
+Stack trace:
+#0 D:\www_dev\local.istark.ru\dktest\index.php(290): key('\xD0\x9A\xD1\x80\xD0\xB8\xD1\x82\xD0\xB8\xD1\x87\xD0\xB5\xD1...')
+#1 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 290
+[15-Jul-2025 02:32:52 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:246
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 246
+[15-Jul-2025 02:34:30 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:246
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 246
+[15-Jul-2025 02:34:32 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught Error: Call to undefined function getDetailedInterpretationInco() in D:\www_dev\local.istark.ru\dktest\index.php:246
+Stack trace:
+#0 {main}
+  thrown in D:\www_dev\local.istark.ru\dktest\index.php on line 246
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 247
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 02:35:37 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
