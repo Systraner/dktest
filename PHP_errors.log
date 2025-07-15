@@ -1,83 +1,33 @@
-
-[15-Jul-2025 02:43:33 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected token ";", expecting ":" in D:\www_dev\local.istark.ru\dktest\index.php on line 282
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 250
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 250
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:45:46 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 250
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:31 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 250
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:46:36 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 255
-[15-Jul-2025 02:47:21 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected token ";", expecting ":" in D:\www_dev\local.istark.ru\dktest\index.php on line 283
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 247
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
-[15-Jul-2025 02:49:55 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 252
+[15-Jul-2025 16:44:04 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected variable "$questions" in D:\www_dev\local.istark.ru\dktest\index.php on line 4
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 228
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:04 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined variable $totalScore in D:\www_dev\local.istark.ru\dktest\index.php on line 228
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q0" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q1" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q2" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q3" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q4" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q5" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q6" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q7" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q8" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q9" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q10" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q11" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q12" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q13" in D:\www_dev\local.istark.ru\dktest\index.php on line 233
+[15-Jul-2025 16:46:34 Asia/Krasnoyarsk] PHP Warning:  Undefined array key "q14" in D:\www_dev\local.istark.ru\dktest\index.php on line 233

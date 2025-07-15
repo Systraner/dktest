@@ -23,25 +23,6 @@ $questions = [
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $totalScore = 0;
     
-    foreach ($questions as $i => $question) {
-        $answer = (int)$_POST['q' . $i];
-        // Если вопрос обратный, инвертируем балл (1=5, 2=4, ...)
-        if ($question[1]) {
-            $answer = 6 - $answer;
-        }
-        $totalScore += $answer;
-    }
-
-    // Интерпретация результата
-    if ($totalScore >= 65) {
-        $result = "Высокая степень познания: вы осознаёте пределы своих знаний, открыты к новому и рефлексируете.";
-    } elseif ($totalScore >= 40) {
-        $result = "У вас есть самокритика, но иногда вы переоцениваете себя. При этом вы на пути к познанию гармонии и это радует.";
-	} elseif ($totalScore >= 20) {
-        $result = "Вы слишком переоцениваете себя, вам нужно остановиться и оглядеться. Посмотрите, как поступают ваши знакомые успешные люди.";
-    } else {
-        $result = "Вам есть куда развиваться, главное не торопитесь. Вы еще поймете, что все не так просто.";
-    }
 }
 ?>
 
@@ -265,15 +246,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         ?>
         
-        <?php if (isset($resultText)): ?>
+        <?php if (!empty($_POST)): ?>
             <div class="result">
                 <h2>Результат: <?= $scoreKey ?> баллов</h2>
+                <img src="dktest.jpg" class="scale" alt="">
                 <div class="dk-scale">
                     <div class="scale-line" style="--pos: <?= ($scoreKey/75)*100 ?>%">
                         <span class="marker"></span>
                     </div>
                 </div>
-                <p><?= $resultText ?></p>
+                <p><?= $resultText['text'] ?></p>
             </div>
 <?php endif; ?>
         
